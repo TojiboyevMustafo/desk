@@ -1,0 +1,15 @@
+#rating{
+    margin-top: 120px;
+    width: 70%;
+    float: right;
+}
+.rating-main{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.rating-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,11 @@
+#video{
+    margin-top: 70px;
+}
+.video-container {
+    display: block;    
+    clear: both;       
+    margin-top: 20px;  
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}

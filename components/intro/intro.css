@@ -1,0 +1,47 @@
+.intro-main{
+  display: flex;
+  justify-content: space-between;
+  height: 500px;
+  gap: 20px;
+}
+.text-content{
+  display: flex;
+  gap: 20px;
+}
+.intro-image{
+  height: 100%;
+}
+.text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.intro-window-image{
+    height: 200px;
+}
+.text-button{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.btn{
+    max-width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+}
+.text-h1{
+    font-size: 64px;
+    font-weight: bold;
+    max-width: 680px;
+    width: 100%;
+}
+.text-p{
+  font-size: 20px;
+  max-width: 315px;
+  width: 100%;
+}
