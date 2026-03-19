@@ -18,3 +18,18 @@
       .then((data) => {
         document.getElementById("news").innerHTML = data;
       });
+      fetch("/components/store/store.html")
+      .then((res) => res.text())
+      .then((data) => {
+        document.getElementById("store").innerHTML = data;
+      });
+      fetch("/components/location/location.html")
+      .then((res) => res.text())
+      .then((data) => {
+        document.getElementById("location").innerHTML = data;
+      });
+      fetch("/components/guest/guest.html")
+      .then((res) => res.text())
+      .then((data) => {
+        document.getElementById("guest").innerHTML = data;
+      });
