@@ -33,3 +33,18 @@
       .then((data) => {
         document.getElementById("guest").innerHTML = data;
       });
+      fetch("/components/action/action.html")
+      .then((res) => res.text())
+      .then((data) => {
+        document.getElementById("action").innerHTML = data;
+      });
+      fetch("/components/order/order.html")
+      .then((res) => res.text())
+      .then((data) => {
+        document.getElementById("order").innerHTML = data;
+      });
+      fetch("/components/final/final.html")
+      .then((res) => res.text())
+      .then((data) => {
+        document.getElementById("final").innerHTML = data;
+      });

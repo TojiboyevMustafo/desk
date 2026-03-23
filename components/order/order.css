@@ -1,0 +1,40 @@
+.order-h1{
+    border-bottom: 1px solid #ddd;
+}
+.order-big{
+    max-width: 1300px;
+    margin-top: 120px;
+}
+.order-main{
+    display: flex;
+    justify-content: space-around;
+    gap: 110px;
+}
+.order-one-p{
+    font-size: 30px;
+    width: 100%;
+}
+.order-one{
+    width: 80%;
+}
+.order-two{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 40px;
+    width: 80%;
+}
+.order-input{
+    border: none;
+    border-bottom: 1px solid #ddd;
+    font-size: 20px;
+    width: 100%;
+}
+.order-btn{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 20px 0px;
+    width: 40%;
+    border-radius: 12px;
+}
