@@ -1,0 +1,15 @@
+.action-big{
+    max-width: 1300px;
+    margin-top: 120px;
+}
+.action-main{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.act-one-p{
+    width: 75%;
+}
+.action-h1{
+    border-bottom: 1px solid #ddd;
+}
