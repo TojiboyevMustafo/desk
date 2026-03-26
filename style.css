@@ -7,22 +7,22 @@ body{
 }
 
 /* 2K / katta monitorlar */ 
-/* @media screen and (max-width: 2000px) {
+@media screen and (max-width: 2000px) {
     body{
         padding: 20px 180px;
     }
-} */
+}
 
 /* oddiy desktop yoki laptop */
-/* @media screen and (max-width: 1400px) {
+@media screen and (max-width: 1400px) {
     body{
         padding: 20px 80px;
     }
-} */
+}
 
 /* kichik laptop (14") */
- /* @media screen and (max-width: 1100px) {
+ @media screen and (max-width: 1100px) {
     body{
         padding: 20px 40px;
     }
-} */
+}
