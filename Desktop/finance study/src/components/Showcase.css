@@ -1,0 +1,22 @@
+.showcase{
+    padding: 10%;
+}
+.showcase-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.showcase-h2{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    width: 35%;
+    text-align: center;
+}
+.showcase-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 15%;
+}

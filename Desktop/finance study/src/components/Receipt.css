@@ -1,0 +1,37 @@
+.receipt{
+    background-color: #F7F2E4;
+    padding: 5%;
+}
+.receipt_p{
+    color: #7352FF;
+    font-size: 20px;
+}
+.receipt_h1{
+    color: #191919;
+    font-size: 64px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    width: 50%;
+    text-align: center;
+}
+.receipt_start{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.receipt_middle{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    align-items: center;
+    margin-top: 7%;
+}
+.receipt_end{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+    margin-top: 7%;
+}

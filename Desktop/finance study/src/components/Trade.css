@@ -1,0 +1,38 @@
+.trade{
+    background-color: #2B2A35;
+    padding-top: 7%;
+}
+.trade-start{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.trade-start-p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #6EE4B5;
+    margin-top: 20px;
+}
+.trade-start-h1{
+    font-size: 54px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    width: 40%;
+    text-align: center;
+}
+.trade-p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 70px;
+}
+.trade-board{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}

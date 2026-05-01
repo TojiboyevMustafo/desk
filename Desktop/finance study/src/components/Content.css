@@ -1,0 +1,40 @@
+.content{
+    background-color: #191919;
+    padding: 13% 2%;
+}
+.content-start{
+    margin-left: 5%
+}
+.start-h1{
+    color: #fff;
+    font-size: 64px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2%;
+}
+.start-p{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    width: 32%;
+    margin-top: 2%;
+}
+.start-button{
+    background-color: #191919;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 60px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-top: 2%;
+}
+.content-images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}

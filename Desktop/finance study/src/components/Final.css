@@ -1,0 +1,51 @@
+.final{
+    background-color: #7352FF;
+    padding: 3% 5%;
+}
+.final-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.one-h2{
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    width: 50%;
+}
+.one-but{
+    background-color: #7352FF;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 70px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+.final-three{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+.final-four{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.final-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 6%;
+}
+.final-four-text{
+    color: #FFFFFF80;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
